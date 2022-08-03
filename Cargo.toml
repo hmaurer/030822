@@ -1,0 +1,7 @@
+[package]
+name    = "glium_macros"
+version = "0.1.0"
+authors = ["HM"]
+edition = "2022"
+
+[dependencies]
